@@ -1,0 +1,5 @@
+Python is a useful programming language for beginners. It is readable, flexible, and widely used in data analysis, automation, web development, and artificial intelligence.
+
+Learning to code is not only about memorizing syntax. A good learner needs to understand how data moves through a program, how errors happen, and how to break a large problem into smaller steps.
+
+When you write a word count program, you are practicing file reading, string processing, and command line arguments. These skills are small, but they are important foundations for real software projects.

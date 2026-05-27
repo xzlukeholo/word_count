@@ -1,6 +1,7 @@
 # Python wc Practice 🐾
 
 這是一個 Python 小練習專案，功能類似簡易版的 `wc` 工具。
+不過跟wc還是有點不同:This project counts lines, cleaned words, and letters from a text file.
 
 它可以讀取一個文字檔，並統計：
 

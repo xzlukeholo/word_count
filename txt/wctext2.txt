@@ -1,0 +1,5 @@
+The weather was calm in the morning, but dark clouds slowly moved across the sky. People in the city walked faster because they expected heavy rain before noon.
+
+Inside a small cafe, a student opened her laptop and started reviewing her Python notes. She had learned about lists, dictionaries, loops, and functions, but command line arguments still felt new to her.
+
+After several mistakes, she finally ran her program successfully. The result was simple: three numbers printed on the screen. Still, it felt like progress.
